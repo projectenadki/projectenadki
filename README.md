@@ -1,16 +1,18 @@
-### Hi there 👋
+# Projecte Nadki
 
-<!--
-**projectenadki/projectenadki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projecte sense ànim de lucre, anònim i col·laboratiu que pretén difondre coneixements gratuïtament. 
 
-Here are some ideas to get you started:
+El Projecte Nadki neix de la necessitat de no trobar aquests recursos en català ben documentats i per a qualsevol d'usuari.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Se centra en els següents àmbits:
+	* Conscienciar dels perills que hi ha a Internet a la vegada que ensenya com incrementar la privacitat i l'anonimat.
+    * Difondre metodologies i tècniques d'investigació online (OSINT i SOCINT).
+
+## Privacitat i Anonimat
+Blog que té com a objectiu difondre informació sobre privacitat i anonimat perquè qualsevol usuari, independentment dels seus coneixements, pugui navegar per Internet amb més privacitat i més anonimat.
+
+## Investigació Online
+Blog que té com a objectiu difondre metodologies, eines i tècniques que es poden utilitzar per extreure, processar i analitzar informació de fonts públiques.
+
+## Eines pròpies
+Eines desenvolupades per extreure, processar i analitzar la informació amb més facilitat.
